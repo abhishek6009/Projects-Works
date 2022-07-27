@@ -14,3 +14,7 @@ This is a multi-class classification problem, where we try to predict the Obesit
 # Retention Analysis
 
 This project aims to predict whether an employee will leave the company or be fired within the next time duration, based on various provided factors.
+
+# Interest Rate Prediction
+
+The aim of this project was to build a Decision Tree Model that predicts the Interest Rate category under which an application should fall. The dataset included variables like Loan Amount, Annual Income, Purpose of Loan, etc. There were three categories of Interest Rate - 1, 2 and 3.
