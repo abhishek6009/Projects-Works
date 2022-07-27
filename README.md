@@ -10,3 +10,7 @@ This is a classification problem from a Kaggle Dataset. The problem is to predic
 # Obesity Level Prediction
 
 This is a multi-class classification problem, where we try to predict the Obesity Level of a person using various medical metrics as well as some lifestyle indicators. 
+
+# Retention Analysis
+
+This project aims to predict whether an employee will leave the company or be fired within the next time duration, based on various provided factors.
